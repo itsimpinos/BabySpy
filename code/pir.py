@@ -1,4 +1,3 @@
-<img src="BabySpy/pir_wiring.png">
 import RPi.GPIO as GPIO
 import datetime
 import time
